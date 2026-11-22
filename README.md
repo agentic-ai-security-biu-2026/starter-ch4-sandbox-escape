@@ -17,4 +17,4 @@ Sandbox escape learning (local/pre-baked). Diff 2–4. Priority P3.
 
 ## License
 
-Apache-2.0 (unless noted).
+Apache-2.0 — see `LICENSE`.
